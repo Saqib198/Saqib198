@@ -7,8 +7,8 @@ Software Engineer
 I specialize in creating seamless, user-friendly apps using the Flutter framework. With a strong focus on efficiency and a keen eye for detail, I strive to deliver applications that not only meet but exceed user expectations.
 
 * 🌍  I'm based in Islamabad
-* 🖥️  See my portfolio at [My Apps](http://play.google.com/store/apps/dev?id=5857236779280703189&hl=en)
-* ✉️  You can contact me at [Saqibjaved19078@gmail.com](mailto:Saqibjaved19078@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](http://Saqibjaved.pk)
+* ✉️  You can contact me at [Contact@Saqibjaved.pk](mailto:Contact@Saqibjaved.pk)
 * 🧠  I'm learning React Native and Swift
 * 🤝  I'm open to collaborating on Flutter Projects
 * ⚡  Crafting Beautiful Experiences with Flutter: Where Innovation Meets Efficiency!
