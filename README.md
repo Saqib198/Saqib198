@@ -13,7 +13,7 @@ I specialize in creating seamless, user-friendly apps using the Flutter framewor
 * 🤝  I'm open to collaborating on Flutter Projects
 * ⚡  Crafting Beautiful Experiences with Flutter: Where Innovation Meets Efficiency!
 
-### Skills
+### Skill
 
 
 <p align="left">
