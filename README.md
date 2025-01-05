@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Saqib Javed
 ============================================================================================================================================
 
-Software Engineer (Flutter Developer)
+Software Engineer (Mobile App Developer)
 -----------------
 
 I specialize in creating seamless, user-friendly apps using the Flutter framework. With a strong focus on efficiency and a keen eye for detail, I strive to deliver applications that not only meet but exceed user expectations.
